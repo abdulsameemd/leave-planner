@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "id": "m1",
+      "name": "Susmitha Elizabeth Jacob",
+      "email": "Susmitha.Jacob@dewa.gov.ae",
+      "entitlement": 30
+    },
+    {
+      "id": "m2",
+      "name": "Venkata Siva Modem",
+      "email": "Venkata.Siva@dewa.gov.ae",
+      "entitlement": 30
+    },
+    {
+      "id": "m3",
+      "name": "Sukanta Kumar Sasmal",
+      "email": "sukanta.kumar@dewa.gov.ae",
+      "entitlement": 30
+    },
+    {
+      "id": "m4",
+      "name": "Rakesh Roshan Sahoo",
+      "email": "rakesh.roshan@dewa.gov.ae",
+      "entitlement": 30
+    },
+    {
+      "id": "m5",
+      "name": "Kurnika Choudhary",
+      "email": "kurnika.choudhary@dewa.gov.ae",
+      "entitlement": 30
+    },
+    {
+      "id": "m6",
+      "name": "Abdulmuhsin Panakkal",
+      "email": "abdulmuhsin.panakkal@dewa.gov.ae",
+      "entitlement": 30
+    },
+    {
+      "id": "m7",
+      "name": "Deepak Rajan",
+      "email": "deepak.rajan@dewa.gov.ae",
+      "entitlement": 30
+    }
+  ],
+  "leaves": []
+}
